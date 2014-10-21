@@ -393,7 +393,7 @@ ul.accordion li.active .tab-container {
 
 #wrapper {	
 	width: 100%;
-	background: url('../images/cover_back.jpg') center top;
+	/* background: url('../images/cover_back.jpg') center top; */
 	padding-top: 100px;
 	
 	-webkit-transition: margin .1s;
@@ -691,7 +691,7 @@ section {
 /* section cover */
 
 #cover {
-	background: url("../images/cover_back.jpg") center bottom no-repeat;
+	/* background: url("../images/cover_back.jpg") center bottom no-repeat; */
 	font-size: 1.3em;
 }
 #cover .container {
