@@ -66,7 +66,7 @@ $(window).on({
 		winS = $(window).scrollTop();
 		
 		if ( winS >= stThr ) { header.addClass("compact"); }
-		else { header.removeClass("compact"); }
+		else { header.addClass("compact"); }
 		
 	},
 	
