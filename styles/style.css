@@ -539,6 +539,7 @@ ul.accordion li.active .tab-container {
 }
 #header-nav .logo a {
 	color: red;
+	font-size: 30px;
 }
 #header-nav ul li.logo a:hover {
 	background: none;
