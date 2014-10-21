@@ -726,11 +726,12 @@ section {
 /* section team */
 
 #team img {
-	width: 100%;
+	width: 210px;
 }
 .photo-container {
 	position: relative;
 }
+
 #team .contacts,
 #sidebar-author .contacts {
 	position: absolute;

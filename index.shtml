@@ -24,11 +24,11 @@
 					<div class="photo-container">
 						<img class="rounded" src="images/photo_william.jpg" alt="" />
 						<p class="contacts">
-							<a href="#" class="icon-in">linkedin</a>
+							<a href="https://www.linkedin.com/in/jiteshd1" class="icon-in">linkedin</a>
 						</p>
 					</div>
-					<h5>William Gates</h5>
-					<p>Lead Software Engineer.</p>
+					<h5>Jitesh Dineschandra</h5>
+					<p>Digital Engineering Consultant</p>
 				</div>
 				<div class="column one-third align-center last">
 					<div class="photo-container">
