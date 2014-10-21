@@ -603,7 +603,7 @@ ul.accordion li.active .tab-container {
 /* sections general */
 
 section {
-	box-shadow: 0 -2px 0 rgba(0,0,0,0.05);
+	/* box-shadow: 0 -2px 0 rgba(0,0,0,0.05);*/
 	background-color: #FFF;
 	float: left;
 	width: 100%;
@@ -618,7 +618,7 @@ section {
 /* sections backs */
 
 .back-diagonals {
-	background-image: url("../images/patt_diagonals.png");
+	/* background-image: url("../images/patt_diagonals.png"); */
 	background-color: #FFF;
 }
 .back-hexagons {
