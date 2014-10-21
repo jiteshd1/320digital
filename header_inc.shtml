@@ -1,31 +1,23 @@
 
-	<nav id="header-nav">
-		<h1 class="logo"><a href="index.shtml">320Digital</a></h1>
-		<div id="header-nav-container">
-			<ul>
-				<li class="current"><a href="index.shtml">Home</a></li>
-				<li>
-					<a href="about.shtml">About</a>
-				</li>
-				<li>
-					<a href="blog.shtml">Blog</a>
-					<ul class="sub-nav">
-						<li><a href="blog_post.shtml">Post Single</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="portfolio.html">Portfolio</a>
-					<ul class="sub-nav">
-						<li><a href="portfolio_single_sbright.shtml">Item Sidebar Right</a></li>
-						<li><a href="portfolio_single_sbleft.shtml">Item Sidebar Left</a></li>
-						<li><a href="portfolio_single_fw.shtml">Item Full Width</a></li>
-					</ul>
-				</li>
-				<li><a href="single.html">Usage</a></li>
-				<li>
-					<a href="contacts.html">Contacts</a>
-				</li>
-			</ul>
-		</div>
-		<a id="nav-trigger" href="#">Toggle Navigation</a>	
-	</nav>
+<nav id="header-nav">
+	<h1 class="logo">
+		<a href="index.shtml">320Digital</a>
+	</h1>
+	<div id="header-nav-container">
+		<ul>
+			<li class="current">
+				<a href="index.shtml">Home</a>
+			</li>
+			<li>
+				<a href="about.shtml">About</a>
+			</li>
+			<li>
+				<a href="portfolio.html">Portfolio</a>
+			</li>
+			<li>
+				<a href="contacts.html">Contacts</a>
+			</li>
+		</ul>
+	</div>
+	<a id="nav-trigger" href="#">Toggle Navigation</a>	
+</nav>
