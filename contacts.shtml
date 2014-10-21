@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--#include file="header_content.shtml" -->
+</head>
+<body>
+
+<div id="wrapper">
+	
+	<header id="main-header">
+		<!--#include file="header_inc.shtml" -->
+	</header>
+
+	<section id="main" class="back-diagonals">
+		<div class="container">
+			
+			<h2>Contacts</h2>
+			
+			<div class="column-container">
+				<div class="column two-thirds">
+					<h3>Drop me a line:</h3>
+					<form id="contact-form" action="php/sendmail.php">
+							
+						<p id="contact-form-success" class="form-success-message">
+							<strong>Your message was sent!</strong><br>
+							We will respond to your request as soon as possible. Thank you for your interest!
+						</p>
+						
+						<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Name" /></p>
+						<p><input id="contact-email" class="required" name="contact-email" type="text" placeholder="Email" /></p>
+						<p><textarea id="contact-mesage" class="required" name="contact-message" placeholder="Message"></textarea></p>
+						<p class="submit"><button class="form-submit button grey" type="submit">Submit</button></p>
+					</form>
+
+				</div>
+				<div class="column one-third last">
+					<h3>Info</h3>
+					<h5>Email:</h5>
+					<p><a href="#">jiteshd@320digital.com</a></p>
+				</div>
+
+		</div>
+	</section>
+	<section id="contact" class="back-grey">
+		<div class="container">
+			<div class="column-container">
+				<div class="column one-half">
+					<h3>About us:</h3>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum cursus hendrerit. Aliquam elementum velit dolor, non pellentesque turpis cursus non. Phasellus nec dignissim magna, non placerat tortor. Quisque tincidunt sem ac nulla commodo.
+					</p>
+				</div>
+				<div class="column one-half last">
+					<h3>Frequent Questions:</h3>
+					<ul class="circles">
+						<li><a href="#">Morbi consequat diam et feugiat lobortis?</a></li>
+						<li><a href="#">Nulla sollicitudin fringilla tortor, nec laoreet ipsum rutrum id?</a></li>
+						<li><a href="#">Vivamus auctor dui augue, sit amet facilisis?</a></li>
+						<li><a href="#">Suspendisse sed pellentesque justo?</a></li>
+						<li><a href="#">Quisque faucibus lobortis velit ac tincidunt?</a></li>
+						<li><a href="#">Praesent libero augue, consequat sit amet viverra id?</a></li>
+						<li><a href="#">Phasellus sit amet commodo lectus?</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<footer id="main-footer">
+		<div class="container">
+			<ul id="footer-socials">
+				<li><a href="#" id="icon-fb">fb</a></li>
+				<li><a href="#" id="icon-twi">twitter</a></li>
+				<li><a href="#" id="icon-in">linkedin</a></li>
+			</ul>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="single.html">Usage</a></li>
+					<li><a href="portfolio.html">Portfolio</a></li>
+					<li><a href="contacts.html">Contacts</a></li>
+				</ul>
+			</nav>
+			<p id="footer-copyright">© 2014 NRG Industries Inc. All rights reserved.</p>
+		</div>
+	</footer>
+	
+</div>
+
+</body>
+</html>

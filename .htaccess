@@ -1,0 +1,33 @@
+Order deny,allow
+DirectoryIndex index.shtml
+RewriteBase / 
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^320digital\.com$ [NC]
+RewriteRule ^(.*)$ http://www.320digital.com/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^.*/index.shtml
+RewriteRule ^(.*)index.shtml$ http://www.320digital.com/$1 [R=301,L] 
+RewriteRule ^(.*)/$ http://%{HTTP_HOST}/$1 
+
+
+# 1 WEEK 1 DAY
+<filesMatch ".(jpg|jpeg|png|gif|swf|ico)$">
+Header set Cache-Control "max-age=691200, public"
+</filesMatch>
+# 1 WEEK 1 DAY
+<filesMatch ".(xml|txt|js)$">
+Header set Cache-Control "max-age=691200, proxy-revalidate"
+</filesMatch>
+# 1 WEEK 1 DAY
+<filesMatch ".(html|htm|css|php)$">
+Header set Cache-Control "max-age=691200, private, proxy-revalidate"
+</filesMatch> 
+
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</Files>
+
+ErrorDocument 404 /your-folder-name/your-error-page.html 
+
+AddCharset UTF-8 .html
