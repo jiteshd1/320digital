@@ -17,17 +17,21 @@
 			<h3>Tell Everyone Who You Are</h3>
 			<p>Ut suscipit risus eget diam vestibulum, nec ornare nunc adipiscing. Sed id odio in mi cursus placerat vel eget mi. Suspendisse nec libero aliquam, rhoncus odio quis, luctus ipsum. In in risus et neque scelerisque ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 			<div class="column-container">
-				<div class="column one-fourth align-center">
+				<div class="column one-third align-center">
+					
+				</div>
+				<div class="column one-third align-center">
 					<div class="photo-container">
 						<img class="rounded" src="images/photo_william.jpg" alt="" />
 						<p class="contacts">
-							<a href="#" class="icon-fb">facebook</a>
-							<a href="#" class="icon-twi">twitter</a>
 							<a href="#" class="icon-in">linkedin</a>
 						</p>
 					</div>
 					<h5>William Gates</h5>
 					<p>Lead Software Engineer.</p>
+				</div>
+				<div class="column one-third align-center last">
+					<div class="photo-container">
 				</div>
 			</div>		
 		</div>
