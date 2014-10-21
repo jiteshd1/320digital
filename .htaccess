@@ -1,6 +1,8 @@
 Order deny,allow
 DirectoryIndex index.shtml
-RewriteBase / 
+
+RewriteBase /
+
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^320digital\.com$ [NC]
 RewriteRule ^(.*)$ http://www.320digital.com/$1 [R=301,L]
