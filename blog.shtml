@@ -6,7 +6,7 @@
 <body>
 
 <div id="wrapper">
-	<header id="main-header">
+	<header id="main-header" class="compact">
 		<!--#include file="header_inc.shtml" -->
 	</header>
 
