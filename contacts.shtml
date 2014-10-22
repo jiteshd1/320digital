@@ -29,7 +29,7 @@
 					<form id="contact-form" action="php/sendmail.php">
 							
 						<p id="contact-form-success" class="form-success-message">
-							<strong>On its way ... keep a lookout for my reply!</strong><br>
+							<strong>Thanks for the message ... keep a lookout for my reply!</strong>
 						</p>
 						
 						<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Your Name" /></p>

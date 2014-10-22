@@ -12,8 +12,7 @@
 			<form id="contact-form">
 					
 				<p id="contact-form-success" class="form-success-message">
-					<strong>Your message was sent!</strong><br>
-					We will respond to your request as soon as possible. Thank you for your interest!
+					<strong>Thanks for the message ... keep a lookout for my reply!</strong>
 				</p>
 				
 				<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Your Name" /></p>
