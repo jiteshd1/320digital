@@ -8,26 +8,6 @@
 			</p>
 		</div>
 		<div class="column one-half last">
-			<h3>Address:</h3>
-			<p>08172, Passatge de Sant Antoni 8, p.1, p.2, Sant Cugat del Valles, Barcelona, Spain.</p>
-			<p>+34 123 456 789</p>
-			<p><a href="#">http://1giantleap.ru</a></p>
-		</div>
-	</div>
-	<div class="column-container">
-		<div class="column one-half">
-			<h3>Frequent Questions:</h3>
-			<ul class="circles">
-				<li><a href="#">Morbi consequat diam et feugiat lobortis?</a></li>
-				<li><a href="#">Nulla sollicitudin fringilla tortor, nec laoreet ipsum rutrum id?</a></li>
-				<li><a href="#">Vivamus auctor dui augue, sit amet facilisis?</a></li>
-				<li><a href="#">Suspendisse sed pellentesque justo?</a></li>
-				<li><a href="#">Quisque faucibus lobortis velit ac tincidunt?</a></li>
-				<li><a href="#">Praesent libero augue, consequat sit amet viverra id?</a></li>
-				<li><a href="#">Phasellus sit amet commodo lectus?</a></li>
-			</ul>
-		</div>
-		<div class="column one-half last">
 			<h3>More Questions?</h3>
 			<form id="contact-form">
 					
