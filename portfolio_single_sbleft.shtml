@@ -6,6 +6,16 @@
 <body>
 
 <div id="wrapper">
+	<script>
+		$(document).ready(function(){
+			var tabs=$("#header-nav-container").find("li");
+			$.each( tabs, function( key, value ) {
+  				$(value).removeClass("current");
+			});
+			
+			$("#portfolio").addClass("current");
+		});
+	</script>
 	
 	<header id="main-header" class="compact">
 		<!--#include file="header_inc.shtml" -->
@@ -14,11 +24,11 @@
 	<section id="main" class="back-diagonals">
 		<div class="container">
 			
-			<h2>Drag Racing Game UI</h2>
+			<h4>Drag Racing Game UI</h4>
 			
 			<article class="column-container portfolio-single">
-				<div class="portfolio-item-description column one-third">
-					<h3>Project details</h3>
+				<div class="portfolio-item-description column">
+					<h4>Project details</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit porttitor luctus. Proin molestie velit ac nisi adipiscing convallis. Vivamus rhoncus enim sed ante placerat, id tincidunt ipsum condimentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>						
 					<ul class="post-meta">
 						<li>
@@ -39,67 +49,7 @@
 						</li>
 					</ul>
 				</div>
-				<div class="portfolio-item-cover column two-thirds slideshow last">
-					<p class="slide"><img class="full-width" src="images/portfolio_img1.png" /></p>
-					<p class="slide"><img class="full-width" src="images/portfolio_img2.png" /></p>
-					<p class="slide"><img class="full-width" src="images/portfolio_img3.png" /></p>
-					<p class="slide"><img class="full-width" src="images/portfolio_img4.png" /></p>
-					<p class="slide"><img class="full-width" src="images/portfolio_img5.png" /></p>
-					<p class="slide"><img class="full-width" src="images/portfolio_img6.png" /></p>
-				</div>
 			</article>
-			
-			<h3>Related Works:</h3>
-			<div class="column-container portfolio small">
-				<article class="column one-third portfolio-item cat-ui">
-					<div class="portfolio-container">
-						<div class="portfolio-item-cover">
-							<p><img class="full-width" src="images/portfolio_img1.png" /></p>
-						</div>
-						<div class="portfolio-item-description">
-							<h4>Drag Racing Game UI</h4>
-							<p>This is an excerpt I wrote for this project. It should explain the project in general ...</p>
-							<p><a href="portfolio_single_sbright.html">Read more</a></p>
-							<ul class="actions">
-								<li class="read-more"><a href="portfolio_single_sbright.html">Read more</a></li>
-								<li class="zoom-in"><a href="#">Zoom in</a></li>
-							</ul>
-						</div>
-					</div>
-				</article>
-				<article class="column one-third portfolio-item cat-ui">
-					<div class="portfolio-container">
-						<div class="portfolio-item-cover">
-							<p><img class="full-width" src="images/portfolio_img5.png" /></p>
-						</div>
-						<div class="portfolio-item-description">
-							<h4>FGC Google Now UI</h4>
-							<p>This is an excerpt I wrote for this project. It should explain the project in general ...</p>
-							<p><a href="portfolio_single_sbright.html">Read more</a></p>
-							<ul class="actions">
-								<li class="read-more"><a href="portfolio_single_sbright.html">Read more</a></li>
-								<li class="zoom-in"><a href="#">Zoom in</a></li>
-							</ul>
-						</div>
-					</div>
-				</article>
-				<article class="column one-third portfolio-item cat-icons">
-					<div class="portfolio-container">
-						<div class="portfolio-item-cover">
-							<p><img class="full-width" src="images/portfolio_img6.png" /></p>
-						</div>
-						<div class="portfolio-item-description">
-							<h4>Stones App Icon</h4>
-							<p>This is an excerpt I wrote for this project. It should explain the project in general ...</p>
-							<p><a href="portfolio_single_sbright.html">Read more</a></p>
-							<ul class="actions">
-								<li class="read-more"><a href="portfolio_single_sbright.html">Read more</a></li>
-								<li class="zoom-in"><a href="#">Zoom in</a></li>
-							</ul>
-						</div>
-					</div>
-				</article>
-			</div>
 
 		</div>
 	</section>
