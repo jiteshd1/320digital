@@ -2,13 +2,13 @@
 <div class="container">
 	<div class="column-container">
 		<div class="column one-half">
-			<h3>About us:</h3>
+			<h4>About us:</h4>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum cursus hendrerit. Aliquam elementum velit dolor, non pellentesque turpis cursus non. Phasellus nec dignissim magna, non placerat tortor. Quisque tincidunt sem ac nulla commodo.
 			</p>
 		</div>
 		<div class="column one-half last">
-			<h3>More Questions?</h3>
+			<h4>More Questions?</h4>
 			<form id="contact-form">
 					
 				<p id="contact-form-success" class="form-success-message">
@@ -16,10 +16,11 @@
 					We will respond to your request as soon as possible. Thank you for your interest!
 				</p>
 				
-				<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Name" /></p>
-				<p><input id="contact-email" class="required" name="contact-email" type="text" placeholder="Email" /></p>
+				<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Your Name" /></p>
+				<p><input id="contact-email" class="required" name="contact-email" type="text" placeholder="Your Email" /></p>
+				<p><input id="contact-subject" class="required" name="contact-subject" type="text" placeholder="Subject" /></p>
 				<p><textarea id="contact-mesage" class="required" name="contact-message" placeholder="Message"></textarea></p>
-				<p class="submit"><button class="form-submit button grey" type="submit">Submit</button></p>
+				<p class="submit"><button class="form-submit button grey" type="submit">Send</button></p>
 			</form>
 		</div>
 	</div>

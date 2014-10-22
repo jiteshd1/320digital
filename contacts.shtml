@@ -23,11 +23,9 @@
 	<section id="main" class="back-diagonals">
 		<div class="container">
 			
-			<h2>Contact</h2>
-			
 			<div class="column-container">
 				<div class="column two-thirds">
-					<h3>Drop me a line:</h3>
+					<h4>Drop me a line:</h4>
 					<form id="contact-form" action="php/sendmail.php">
 							
 						<p id="contact-form-success" class="form-success-message">
@@ -43,7 +41,7 @@
 
 				</div>
 				<div class="column one-third last">
-					<h3>Info</h3>
+					<h4>Info</h4>
 					<h5>Email:</h5>
 					<p><a href="#">jitesh@320digital.com</a></p>
 				</div>
