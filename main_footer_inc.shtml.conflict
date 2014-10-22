@@ -5,7 +5,11 @@
 	</ul>
 	<nav>
 		<ul>
-			<li><a href="index.shtml">About</a></li>
+<<<<<<< HEAD
+			<li><a href="about.shtml">About</a></li>
+=======
+			<li><a href="index.shtml">Home</a></li>
+>>>>>>> 177e91360512209ccae3d68ac49210428067f8b2
 			<li><a href="portfolio.shtml">Portfolio</a></li>
 			<li><a href="contacts.shtml">Contacts</a></li>
 		</ul>
