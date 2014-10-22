@@ -16,13 +16,14 @@
 			<h2>The Team</h2>
 			<h3>Tell Everyone Who You Are</h3>
 			<p>Ut suscipit risus eget diam vestibulum, nec ornare nunc adipiscing. Sed id odio in mi cursus placerat vel eget mi. Suspendisse nec libero aliquam, rhoncus odio quis, luctus ipsum. In in risus et neque scelerisque ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+			
 			<div class="column-container">
 				<div class="column one-third align-center">
 					
 				</div>
 				<div class="column one-third align-center">
 					<div class="photo-container">
-						<img class="rounded" src="images/photo_william.jpg" alt="" />
+						<img class="rounded" src="images/jitesh_cropped.jpg" alt="" />
 						<p class="contacts">
 							<a href="https://www.linkedin.com/in/jiteshd1" class="icon-in">linkedin</a>
 						</p>
@@ -33,7 +34,7 @@
 				<div class="column one-third align-center last">
 					<div class="photo-container">
 				</div>
-			</div>		
+			</div>	
 		</div>
 	</section>
 	
