@@ -6,7 +6,16 @@
 <body>
 
 <div id="wrapper">
-	
+	<script>
+		$(document).ready(function(){
+			var tabs=$("#header-nav-container").find("li");
+			$.each( tabs, function( key, value ) {
+  				$(value).removeClass("current");
+			});
+			
+			$("#portfolio").addClass("current");
+		});
+	</script>
 	<header id="main-header" class="compact">
 		<!--#include file="header_inc.shtml" -->
 	</header>
@@ -16,7 +25,7 @@
 			
 			<h2>Portfolio</h2>
 			<h3>Behold this sleek portfolio gallery!</h3>
-			<p>NRG allows you to show off your skills to people. The portfolio represents a very simple interactive image gallery with appealing animation effects. You can put here photos, illustrations, mock-ups and stuff like this. The gallery adapts nicely to any kind of screen, so you don't have to worry about its appearance on different devices.</p>
+			<p>320 allows you to show off your skills to people. The portfolio represents a very simple interactive image gallery with appealing animation effects. You can put here photos, illustrations, mock-ups and stuff like this. The gallery adapts nicely to any kind of screen, so you don't have to worry about its appearance on different devices.</p>
 			
 			<div class="portfolio">
 				<div class="column-container">

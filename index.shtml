@@ -10,7 +10,6 @@
 	<header id="main-header" class="compact">
 		<!--#include file="header_inc.shtml" -->
 	</header>
-	
 	<section id="team">
 		<div class="container">
 			<h2>The Team</h2>

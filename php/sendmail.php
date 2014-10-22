@@ -1,7 +1,7 @@
 <?php
 
 $email = "jitesh@320digital.com";
-$subject = "Please intoduce a message subject here";
+$subject = "Website contact";
 
 if ( isset($_POST["contact-name"]) && isset($_POST["contact-email"]) && isset($_POST["contact-message"]) ) {
 

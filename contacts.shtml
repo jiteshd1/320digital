@@ -4,7 +4,16 @@
 	<!--#include file="header_content.shtml" -->
 </head>
 <body>
-
+<script>
+	$(document).ready(function(){
+		var tabs=$("#header-nav-container").find("li");
+		$.each( tabs, function( key, value ) {
+			$(value).removeClass("current");
+		});
+		
+		$("#contact").addClass("current");
+	});
+</script>
 <div id="wrapper">
 	
 	<header id="main-header" class="compact">
@@ -14,7 +23,7 @@
 	<section id="main" class="back-diagonals">
 		<div class="container">
 			
-			<h2>Contacts</h2>
+			<h2>Contact</h2>
 			
 			<div class="column-container">
 				<div class="column two-thirds">
@@ -22,14 +31,14 @@
 					<form id="contact-form" action="php/sendmail.php">
 							
 						<p id="contact-form-success" class="form-success-message">
-							<strong>Your message was sent!</strong><br>
-							We will respond to your request as soon as possible. Thank you for your interest!
+							<strong>On its way ... keep a lookout for my reply!</strong><br>
 						</p>
 						
-						<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Name" /></p>
-						<p><input id="contact-email" class="required" name="contact-email" type="text" placeholder="Email" /></p>
+						<p><input id="contact-name" class="required" name="contact-name" type="text" placeholder="Your Name" /></p>
+						<p><input id="contact-email" class="required" name="contact-email" type="text" placeholder="Your Email" /></p>
+						<p><input id="contact-subject" class="" name="contact-subject" type="text" placeholder="Subject" /></p>
 						<p><textarea id="contact-mesage" class="required" name="contact-message" placeholder="Message"></textarea></p>
-						<p class="submit"><button class="form-submit button grey" type="submit">Submit</button></p>
+						<p class="submit"><button class="form-submit button grey" type="submit">Send</button></p>
 					</form>
 
 				</div>

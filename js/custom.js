@@ -160,6 +160,7 @@ function formActionHandler( form, actionURL ){
 			$(this).find(".invalid").removeClass("invalid");
 			
 			if ( reqEmpty.length !== 0 ) {
+				
 				reqEmpty
 					.first()
 					.addClass("invalid")
