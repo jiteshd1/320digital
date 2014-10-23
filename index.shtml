@@ -12,10 +12,11 @@
 	</header>
 	<section id="team" class="team">
 		<div class="container">
-			<h4>Tell Everyone Who You Are</h4>
-			<p>Ut suscipit risus eget diam vestibulum, nec ornare nunc adipiscing. Sed id odio in mi cursus placerat vel eget mi. Suspendisse nec libero aliquam, rhoncus odio quis, luctus ipsum. In in risus et neque scelerisque ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-			
-			<div class="column-container">
+			<h4>Who am I</h4>
+			<p>Passionate about the customer experience and fuelled by the opportunities Technology can bring us I love crafting compelling digital solutions for todays multichannel world. 14 years ago I wrote my first line of code in Fortran 66.  14 years on and I have built highly inspired teams of software engineers for some of the best known brands and digital development houses.</p>
+			<p>You will find a range of projects in my <b><a href="portfolio_single_sbleft.shtml">portfolio</a></b> ranging from migrating and delivering enterprise level eCommerce Responsive Web Design implementations, hiring top class Agile teams and crafting customised Agile delivery models.  I’m also an expert in Web technologies, onshore and offshore development strategies and implementing practical Agile delivery processes.</p>
+			<p>I have also spent a significant amount of time delivering large scale enterprise eCommerce projects in collaboration with a number of eCommerce consulting organisations including Spindrift, Accenture Digital, SapientNitro, and LBi.</p>
+			<p>Have look at <b><a href="#services">what I do </a></b> and how I can help modernise your digital strategy and be better prepared for the future of Multichannel eCommerce</p>	
 				<div class="column one-third align-center">
 					
 				</div>
@@ -33,6 +34,27 @@
 					<div class="photo-container">
 				</div>
 			</div>	
+		</div>
+	</section>
+	<section id="contact">
+		<div class="container">
+			<div class="column-container">
+				<div class="column">
+					<h4 id="services">What I love doing</h4>
+					<ul class="circles">
+						<li>Specialist UI and UX development - discovery through to delivery</li>
+						<li>Responsive design migration and implementation</li>
+						<li>Agile software development and delivery</li>
+						<li>IT transformation</li>
+						<li>Crafting onshore and offshore delivery models</li>
+						<li>Customer experience analysis and development</li>
+						<li>Recruitment services to hire best in class Agile teams</li>
+						<li>Planning and delivering digital strategy</li>
+						<li>Greenfield application development</li>
+						<li>Build and transform in-house development capabilities</li>
+					</ul>
+				</div>
+			</div>
 		</div>
 	</section>
 	
