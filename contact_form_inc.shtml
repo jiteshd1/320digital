@@ -1,16 +1,13 @@
 
 <div class="container">
 	<div class="column-container">
-		<div class="column one-half">
-			<h4>About us:</h4>
+		<div class="column">
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum cursus hendrerit. Aliquam elementum velit dolor, non pellentesque turpis cursus non. Phasellus nec dignissim magna, non placerat tortor. Quisque tincidunt sem ac nulla commodo.
+				Get in touch! Dont forget to leave your contact number!
 			</p>
 		</div>
 		<div class="column one-half last">
-			<h4>More Questions?</h4>
-			<form id="contact-form">
-					
+			<form id="contact-form">	
 				<p id="contact-form-success" class="form-success-message">
 					<strong>Thanks for the message ... keep a lookout for my reply!</strong>
 				</p>

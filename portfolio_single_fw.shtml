@@ -114,6 +114,6 @@
 	</footer>
 	
 </div>
-
+<!--#include file="analytics.shtml" -->
 </body>
 </html>

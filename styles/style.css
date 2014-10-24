@@ -2515,5 +2515,9 @@ a#icon-in {
 	#team .contacts, #sidebar-author .contacts {
 		padding-top: 50px;
 	}
+	
+	.underlined {
+		text-decoration: underline;
+	}
 
 }
