@@ -1,7 +1,7 @@
 
 <div class="container">
 	<div class="column-container">
-		<div class="column">
+		<div id="contact-scroll" class="column">
 			<p>
 				Get in touch! Don't forget to leave your contact number!
 			</p>
