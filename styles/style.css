@@ -2154,7 +2154,7 @@ a#icon-in {
 	}
 	section .container {
 		width: 400px;
-		padding: 50px 0;
+		/* padding: 50px 0; */
 		margin: 0 auto;
 	}
 	#main-header,
