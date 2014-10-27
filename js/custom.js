@@ -61,7 +61,14 @@ function initOnReady() {
 	    });
 	});
 
-	$.scrollUp();;
+	$.scrollUp({
+        animation: 'fade',
+        scrollImg: {
+            active: true,
+            type: 'background',
+            src: '../images/top.png'
+        }
+    });
 
 }
 
