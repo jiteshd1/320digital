@@ -28,7 +28,7 @@
 			
 			<article class="column-container portfolio-single">
 				<div class="portfolio-item-description column">
-					<h5>Checkout development - in-store touch-screen Kiosks</h5>
+					<h5>Checkout development - instore Kiosks</h5>
 					<p >As part of Tesco’s Multichannel strategy the requirement was to develop and integrate a full checkout journey on 330 touch-screen Kiosk devices allowing customers to purchase Tesco Direct products unattended in-stores.   I led the development of a proof of concept using Backbone.js and a JavaScript abstraction layer to interface with the ATG e-commerce layer to develop the checkout journey. I also led the integration of a chip and pin, barcode scanner and receipt printing devices.  The proof of concept is now production ready to be launched I October.  A significant amount of team facilitation, coaching and influencing stakeholders at Director Level was required to deliver this requirement.</p>						
 					<ul class="post-meta">
 						<li>

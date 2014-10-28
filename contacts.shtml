@@ -25,7 +25,7 @@
 			
 			<div class="column-container">
 				<div class="column two-thirds">
-					<h4>Drop me a line:</h4>
+					<h4>Get in touch!  Dont forget to leave your contact number!</h4>
 					<form id="contact-form" action="php/sendmail.php">
 							
 						<p id="contact-form-success" class="form-success-message">
@@ -41,35 +41,10 @@
 
 				</div>
 				<div class="column one-third last">
-					<h4>Info</h4>
 					<h5>Email:</h5>
 					<p><a href="#">jitesh@320digital.com</a></p>
 				</div>
 
-		</div>
-	</section>
-	<section id="contact" class="back-grey">
-		<div class="container">
-			<div class="column-container">
-				<div class="column one-half">
-					<h3>About us:</h3>
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum cursus hendrerit. Aliquam elementum velit dolor, non pellentesque turpis cursus non. Phasellus nec dignissim magna, non placerat tortor. Quisque tincidunt sem ac nulla commodo.
-					</p>
-				</div>
-				<div class="column one-half last">
-					<h3>Frequent Questions:</h3>
-					<ul class="circles">
-						<li><a href="#">Morbi consequat diam et feugiat lobortis?</a></li>
-						<li><a href="#">Nulla sollicitudin fringilla tortor, nec laoreet ipsum rutrum id?</a></li>
-						<li><a href="#">Vivamus auctor dui augue, sit amet facilisis?</a></li>
-						<li><a href="#">Suspendisse sed pellentesque justo?</a></li>
-						<li><a href="#">Quisque faucibus lobortis velit ac tincidunt?</a></li>
-						<li><a href="#">Praesent libero augue, consequat sit amet viverra id?</a></li>
-						<li><a href="#">Phasellus sit amet commodo lectus?</a></li>
-					</ul>
-				</div>
-			</div>
 		</div>
 	</section>
 	
