@@ -24,64 +24,100 @@
 		<section id="main" class="back-diagonals">
 		<div class="container">
 			
-			Project: Checkout development for in-store touch-screen Kiosks
+			
 
-As part of Tesco’s Multichannel strategy the requirement was to develop and integrate a full checkout journey on 330 touch-screen Kiosk devices allowing customers to purchase Tesco Direct products unattended in-stores.   I led the development of a proof of concept using Backbone.js and a JavaScript abstraction layer to interface with the ATG e-commerce layer to develop the checkout journey. I also led the integration of a chip and pin, barcode scanner and receipt printing devices.  The proof of concept is now production ready to be launched I October.  A significant amount of team facilitation, coaching and influencing stakeholders at Director Level was required to deliver this requirement. Tools and processes used: Backbone.js, ATG Commerce, JQuery, SCRUM Agile, BDD, Jasmine.js, Grunt, Selenium Automation, standards based development.
 
-Project: Requirements gathering through outsourcing
 
-Given the large number of EPICs on the product roadmap for 2014-15 I worked closely with the Programme Manager and the Technology Director to on-board two additional SCRUM teams through our global outsourcing partners based in the UK to work on delivering sprint-ready artefacts in time for the development teams in India.  I assessed the proposals and cost structures, as well as agreeing KPIs, team structures and deliverables.  As well as taking an active role in the vendor selection process, I also put in place a vendor onboarding plan so that there is minimal disruption to BAU work and deliverables. Skills used: vendor assessment, contract negotiation, formulating KPIs, forward planning.
-
-Project: Tesco Direct Online – responsive web development on six viewports
-
-Due to a significant increase in the number of orders placed through mobile and tablet devices the challenge was to fine tune the customer experience by developing a technical solution which supported the vast array of mobile and tablet devices used by our customers.  I delivered the end to end technical design of the solution which supports six viewports as well as the integration phase into the ATG platform through the UK SCRUM teams. Tools and processes: JQuery, responsive design, ATG commerce, Sitebuilder, ATG BCC, outsourcing, SCRUM Agile, 15 months.
-
-Project: Tesco Direct Single page checkout 
-
-In order to improve conversion and to reduce the Checkout dropout rate the requirement was to merge the 5 page Tesco Direct checkout journey into a single page.  Following extensive user experience testing and a proof of concept I led the development of a single page checkout driven by JQuery and an in-house written native JavaScript MVC framework.  Conversion increased by 1.5%.  JQuery, in-house MVC, services, SCRUM Agile, 6 months 
-
-Project: Tesco Direct point of sale tills
-
-The aim of the project was to strengthen the Click & Collect customer offering by providing a Tesco Direct point of sale system in-stores across the UK.  I worked directly with Product Directors, Product Owners and design agencies in London to lead the development and integration of a new UI for the Tesco Direct in-store tills.  Tools and Technologies used were ATG CSC, JQuery, Dojo.js, SCRUM Agile, 12 months.
-
-Project: Tesco Direct website redesign
-
-Following the successful release of the Tesco Books e-commerce website I led the development and integration of the new Tesco Direct website UI.  I worked closely with design agencies in London and with our ATG teams in India to plan and deliver the UI integration phase through the UK SCRUM teams in the UK.  12 months.     
-
-Project: Tesco Direct .Net platform migration to ATG
-
-The project involved the migration of the full .Net stack to the ATG E-commerce platform.  My primary task was to build a SCRUM team in the UK focusing on the integration of the ATG E-commerce codebase delivered by an outsourcing partner in India.    Many ATG developers in the UK under my supervision were from specialist ATG third parties and Tesco's own development resources.  The migration completed in March 2012. 14 months.
 
 			
 			
 			
-			<h4>Drag Racing Game UI</h4>
+			<h4>Portfolio</h4>
 			
 			<article class="column-container portfolio-single">
 				<div class="portfolio-item-description column">
-					<h4>Project details</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit porttitor luctus. Proin molestie velit ac nisi adipiscing convallis. Vivamus rhoncus enim sed ante placerat, id tincidunt ipsum condimentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>						
+					<h5>Checkout development for in-store touch-screen Kiosks</h5>
+					<p style="text-align: justify;text-justify: inter-word;">As part of Tesco’s Multichannel strategy the requirement was to develop and integrate a full checkout journey on 330 touch-screen Kiosk devices allowing customers to purchase Tesco Direct products unattended in-stores.   I led the development of a proof of concept using Backbone.js and a JavaScript abstraction layer to interface with the ATG e-commerce layer to develop the checkout journey. I also led the integration of a chip and pin, barcode scanner and receipt printing devices.  The proof of concept is now production ready to be launched I October.  A significant amount of team facilitation, coaching and influencing stakeholders at Director Level was required to deliver this requirement.</p>						
 					<ul class="post-meta">
 						<li>
-							<h5>Date:</h5>
-							<p>20th of February 2014</p>
-						</li>
-						<li>
 							<h5>Categories:</h5>
-							<p><a href="#">UI Design</a>, <a href="#">Mobile</a>, <a href="#">iPhone</a>, <a href="#">Android</a></p>
-						</li>
-						<li>
-							<h5>Client:</h5>
-							<p>Gameloft Inc.</p>
-						</li>
-						<li>
-							<h5>Link:</h5>
-							<p><a href="#">http://www.dragracinggame.com</a></p>
+							<p>Backbone.js, ATG Commerce, JQuery, SCRUM Agile, BDD, Jasmine.js, Grunt, Selenium Automation, standards based development.</p>
 						</li>
 					</ul>
 				</div>
 			</article>
-
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Requirements gathering through outsourcing</h5>
+					<p style="text-align: justify;text-justify: inter-word;">Given the large number of EPICs on the product roadmap for 2014-15 I worked closely with the Programme Manager and the Technology Director to on-board two additional SCRUM teams through our global outsourcing partners based in the UK to work on delivering sprint-ready artefacts in time for the development teams in India.  I assessed the proposals and cost structures, as well as agreeing KPIs, team structures and deliverables.  As well as taking an active role in the vendor selection process, I also put in place a vendor onboarding plan so that there is minimal disruption to BAU work and deliverables.</p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>Vendor assessment, contract negotiation, formulating KPIs, requirements gathering forward planning.</p>
+						</li>
+					</ul>
+				</div>
+			</article>
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Tesco Direct Online – responsive web development on six viewports</h5>
+					<p style="text-align: justify;text-justify: inter-word;">Due to a significant increase in the number of orders placed through mobile and tablet devices the challenge was to fine tune the customer experience by developing a technical solution which supported the vast array of mobile and tablet devices used by our customers.  I delivered the end to end technical design of the solution which supports six viewports as well as the integration phase into the ATG platform through the UK SCRUM teams. </p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>JQuery, responsive design, ATG commerce, Sitebuilder, ATG BCC, outsourcing, SCRUM Agile, 15 months.</p>
+						</li>
+					</ul>
+				</div>
+			</article>
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Tesco Direct Single page checkout </h5>
+					<p style="text-align: justify;text-justify: inter-word;">In order to improve conversion and to reduce the Checkout dropout rate the requirement was to merge the 5 page Tesco Direct checkout journey into a single page.  Following extensive user experience testing and a proof of concept I led the development of a single page checkout driven by JQuery and an in-house written native JavaScript MVC framework.</p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>Conversion increased by 1.5%.  JQuery, in-house MVC, web services, SCRUM Agile, 6 months</p>
+						</li>
+					</ul>
+				</div>
+			</article>
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Tesco Direct point of sale tills</h5>
+					<p style="text-align: justify;text-justify: inter-word;">The aim of the project was to strengthen the Click & Collect customer offering by providing a Tesco Direct point of sale system in-stores across the UK.  I worked directly with Product Directors, Product Owners and design agencies in London to lead the development and integration of a new UI for the Tesco Direct in-store tills.</p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>ATG CSC, JQuery, Dojo.js, SCRUM Agile, 12 months.</p>
+						</li>
+					</ul>
+				</div>
+			</article>
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Tesco Direct website redesign</h5>
+					<p style="text-align: justify;text-justify: inter-word;">Following the successful release of the Tesco Books e-commerce website I led the development and integration of the new Tesco Direct website UI.  I worked closely with design agencies in London and with our ATG teams in India to plan and deliver the UI integration phase through the UK SCRUM teams in the UK.  12 months.</p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>ATG CSC, JQuery, Dojo.js, SCRUM Agile, 12 months.</p>
+						</li>
+					</ul>
+				</div>
+			</article>
+			<article class="column-container portfolio-single">
+				<div class="portfolio-item-description column">
+					<h5>Tesco Direct .Net platform migration to ATG</h5>
+					<p style="text-align: justify;text-justify: inter-word;">The project involved the migration of the full .Net stack to the ATG E-commerce platform.  My primary task was to build a SCRUM team in the UK focusing on the integration of the ATG E-commerce codebase delivered by an outsourcing partner in India.    Many ATG developers in the UK under my supervision were from specialist ATG third parties and Tesco's own development resources.  The migration completed in March 2012. 14 months.</p>						
+					<ul class="post-meta">
+						<li>
+							<h5>Categories:</h5>
+							<p>ATG CSC, JQuery, Dojo.js, SCRUM Agile, 12 months.</p>
+						</li>
+					</ul>
+				</div>
+			</article>
 		</div>
 	</section>
 	<section id="contact" class="back-grey">
