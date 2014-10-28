@@ -1043,6 +1043,7 @@ body.post .post-meta {
 }
 .post-meta p {
 	color: #AAA;
+	font-size: 0.9em;
 }
 .post-meta a {
 	color: inherit;
@@ -1051,7 +1052,7 @@ body.post .post-meta {
 	color: #333;
 }
 .post-meta h5 {
-	font-size: 1em;
+	font-size: 0.9em;
 	margin: 20px 0 5px;
 }
 p.post-date {
@@ -2520,6 +2521,10 @@ a#icon-in {
 		text-decoration: underline;
 	}
 
+}
+
+.category-small {
+	font-size: 15px;
 }
 
 #scrollUp {
