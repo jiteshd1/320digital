@@ -2529,7 +2529,7 @@ a#icon-in {
 
 #scrollUp {
     background-image: url("../images/top.png");
-    bottom: 20px;
+    bottom: 40px;
     right: 20px;
     width: 38px;    /* Width of image */
     height: 38px;   /* Height of image */
