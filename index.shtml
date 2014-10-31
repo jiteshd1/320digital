@@ -14,10 +14,11 @@
 	</header>
 	<section id="team" class="team">
 		<div class="container">
-			<h4>Tell Everyone Who You Are</h4>
-			<p>Ut suscipit risus eget diam vestibulum, nec ornare nunc adipiscing. Sed id odio in mi cursus placerat vel eget mi. Suspendisse nec libero aliquam, rhoncus odio quis, luctus ipsum. In in risus et neque scelerisque ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-			
-			<div class="column-container">
+			<h4>About me</h4>
+			<p>Passionate about Technology and Customer Experience I love crafting compelling digital solutions for todays multichannel world. I wrote my first line of code 14 years ago, and 14 years on I have built highly inspired teams of software engineers for some of the best known eCommerce brands and digital development consultancies.</p>
+			<p>In my <b><a href="portfolio_single_sbleft.shtml" style="text-decoration: underline;">portfolio</a></b> you will find some of the most ambitious projects ranging from migrating and delivering enterprise level responsive eCommerce  websites to hiring top class agile teams and crafting customised Agile delivery processes.  I’m also an expert in Web technologies, crafting onshore and offshore development strategies and developing practical Agile delivery processes.</p>
+			<p>I have also spent a significant amount of time working with some of the biggest brands in eCommerce including Tesco.com, Spindrift, Accenture Digital, SapientNitro, and LBi.</p>
+			<p>Take a peek at <b><a href="#services" style="text-decoration: underline;">what I love doing </a></b> and how I can help modernise your digital strategy and be better prepared for today's Multichannel world. <b><a href="#contact-scroll" style="text-decoration: underline;">Get in touch! </a></b> </p>	
 				<div class="column one-third align-center">
 					
 				</div>
@@ -37,6 +38,27 @@
 			</div>	
 		</div>
 	</section>
+	<section id="contact">
+		<div class="container">
+			<div class="column-container">
+				<div class="column">
+					<h4 id="services">What I love doing</h4>
+					<ul class="circles">
+						<li>Specialist UI and UX development - requirements through to delivery</li>
+						<li>Responsive design migration and implementation</li>
+						<li>Greenfield application development</li>
+						<li>Agile software development and delivery</li>
+						<li>IT transformation</li>
+						<li>Crafting onshore and offshore delivery models</li>
+						<li>Customer experience analysis and development</li>
+						<li>Recruitment services to hire best in class Agile teams</li>
+						<li>Planning and delivering digital strategy</li>
+						<li>Build and transform in-house development capabilities</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
 	
 	<section id="contact" class="back-grey">
 		<!--#include file="contact_form_inc.shtml" -->
@@ -49,4 +71,5 @@
 </div>
 
 </body>
+<!--#include file="analytics.shtml" -->
 </html>

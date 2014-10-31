@@ -1,13 +1,13 @@
 
 <div class="container">
 	<ul id="footer-socials">
-		<li><a href="https://www.linkedin.com/in/jiteshd1" id="icon-in">linkedin</a></li>
+		<li><a href="https://www.linkedin.com/in/jiteshd1" id="icon-in">LinkedIn</a></li>
 	</ul>
 	<nav>
 		<ul>
 			<li><a href="index.shtml">About</a></li>
 			<li><a href="portfolio.shtml">Portfolio</a></li>
-			<li><a href="contacts.shtml">Contacts</a></li>
+			<li><a href="contacts.shtml">Contact</a></li>
 		</ul>
 	</nav>
 	<p id="footer-copyright">© 2014 320Digital.com All rights reserved.</p>

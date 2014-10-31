@@ -82,9 +82,9 @@ h4 {
 h5 {
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 17px;
 	font-weight: 300;
-	margin: 20px 0 10px;
+	margin: 0 0 10px;
 }
 p,
 blockquote {
@@ -657,7 +657,7 @@ section {
 
 .column-container{
 	overflow: hidden;
-	margin: 40px 0 -40px;
+	margin: 10px 0 -40px;
 }
 .column-container:first-child {
 	margin-top: 0;
@@ -1022,7 +1022,7 @@ article .column {
 	margin-bottom: 0;
 }
 article.portfolio-single .column {
-	margin-bottom: 40px;
+	margin-bottom: 25px;
 }
 article aside.column {
 	width: 100px;
@@ -1043,6 +1043,7 @@ body.post .post-meta {
 }
 .post-meta p {
 	color: #AAA;
+	font-size: 0.9em;
 }
 .post-meta a {
 	color: inherit;
@@ -1051,7 +1052,7 @@ body.post .post-meta {
 	color: #333;
 }
 .post-meta h5 {
-	font-size: 1em;
+	font-size: 0.9em;
 	margin: 20px 0 5px;
 }
 p.post-date {
@@ -1116,7 +1117,7 @@ article p.read-more {
 	margin-bottom: 0;
 }
 .portfolio-single .column-container {
-	margin-bottom: 30px
+	margin-bottom: 10px
 }
 .portfolio-single .post-meta {
 	text-align: left;
@@ -2154,7 +2155,7 @@ a#icon-in {
 	}
 	section .container {
 		width: 400px;
-		padding: 50px 0;
+		/* padding: 50px 0; */
 		margin: 0 auto;
 	}
 	#main-header,
@@ -2350,7 +2351,7 @@ a#icon-in {
 		display: none;
 	}
 	.portfolio-single.column-container {
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 	}
 	.portfolio.small {
 		margin-top: 30px;
@@ -2515,5 +2516,21 @@ a#icon-in {
 	#team .contacts, #sidebar-author .contacts {
 		padding-top: 50px;
 	}
+	
+	.underlined {
+		text-decoration: underline;
+	}
 
+}
+
+.category-small {
+	font-size: 15px;
+}
+
+#scrollUp {
+    background-image: url("../images/top.png");
+    bottom: 40px;
+    right: 20px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
 }

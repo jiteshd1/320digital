@@ -1,0 +1,17 @@
+<meta charset="utf-8">
+<<<<<<< HEAD
+<meta name="author" content="Jitesh Dineschandra">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+=======
+<title>Welcome to 320Digital</title>
+<meta name="description" content="Yet Another Responsive Corporate Template">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+>>>>>>> af6e3ec8cfc5ca3602fb20cec39b47c14e0c3028
+
+<link rel="stylesheet" href="styles/css-min.css">
+
+<!-- font faces -->
+<link href='http://fonts.googleapis.com/css?family=Raleway:800,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Glegoo' rel='stylesheet' type='text/css'>
+
+<script src="js/js-min.js"></script>

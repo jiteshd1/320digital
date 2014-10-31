@@ -47,6 +47,28 @@ function goGA( event, category, label ) {
 function initOnReady() {
 	
 	header = $("#main-header");
+	
+	$('a[href^="#"]').not("#nav-trigger").on('click',function (e) {
+	    e.preventDefault();
+
+	    var target = this.hash;
+	    $target = $(target);
+
+	    $('html, body').stop().animate({
+	        'scrollTop': ($target.offset().top - 80)
+	    }, 900, 'swing', function () {
+	        window.location.hash = target;
+	    });
+	});
+
+	$.scrollUp({
+        animation: 'fade',
+        scrollImg: {
+            active: true,
+            type: 'background',
+            src: '../images/top.png'
+        }
+    });
 
 }
 
