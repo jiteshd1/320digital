@@ -9,7 +9,7 @@
 				<a  href="index.shtml">About</a>
 			</li>
 			<li id="portfolio" >
-				<a href="portfolio_single_sbleft.shtml">Portfolio</a>
+				<a href="portfolio.shtml">Portfolio</a>
 			</li>
 			<li id="contact" >
 				<a href="contacts.shtml">Contact</a>
